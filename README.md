@@ -1,10 +1,8 @@
 
 # Screen capture
-![1](https://github.com/j17hernandez/flutter-current-movies/assets/57992471/d7e98423-9be5-4c8e-881c-467b49a32ba2)
-![3](https://github.com/j17hernandez/flutter-current-movies/assets/57992471/52508a16-1be0-49e2-a77d-7383b0edd431)
-![4](https://github.com/j17hernandez/flutter-current-movies/assets/57992471/0959fdb9-db3e-468d-915c-0f4d3b07460f)
-![2](https://github.com/j17hernandez/flutter-current-movies/assets/57992471/2e4235b2-203b-4eca-a8f1-6e08ca6e8ced)
 
+![1](https://github.com/j17hernandez/flutter-current-movies/assets/57992471/8038e73b-541e-4e56-909a-a37ab1a71436)
+![2](https://github.com/j17hernandez/flutter-current-movies/assets/57992471/c21c6e6e-7c57-4204-8393-e3c243ee677a)
 
 
 
